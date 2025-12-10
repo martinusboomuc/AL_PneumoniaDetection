@@ -21,4 +21,4 @@ The goal of this project is to **optimize dataset labeling** by implementing an 
 ## Contact  
 For any questions or collaborations, feel free to reach out:  
 **Email:** martinusboom@gmail.com  
-**GitHub:** [MartinusBoomUc2024154464](https://github.com/MartinusBoomUc2024154464)  
+**GitHub:** [martinusboomuc](https://github.com/martinusboomuc)  
